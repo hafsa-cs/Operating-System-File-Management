@@ -1,28 +1,28 @@
-# 🖥️ Operating System File Management System
+# Operating System File Management System
 
 A console-based **File Management System** developed in **C++** as an Operating Systems course project. This project demonstrates the implementation of basic file handling operations while applying fundamental operating system concepts in a menu-driven application.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 The File Management System provides a simple interface for managing files through a console application. It allows users to perform common file operations such as creating, reading, updating, and deleting files. The project was developed to strengthen practical understanding of file handling techniques and operating system concepts.
 
 ---
 
-## ✨ Features
+## Features
 
-* 📄 Create new files
-* 📂 Open and read existing files
-* ✏️ Update file contents
-* 🗑️ Delete files
-* 💾 Save file changes
-* 📋 Display file information
-* 🖥️ User-friendly menu-driven interface
+* Create new files
+* Open and read existing files
+* Update file contents
+* Delete files
+* Save file changes
+* Display file information
+* User-friendly menu-driven interface
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **C++**
 * **File Handling**
@@ -31,7 +31,7 @@ The File Management System provides a simple interface for managing files throug
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Operating-System-File-Management/
@@ -42,7 +42,7 @@ Operating-System-File-Management/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 
@@ -68,7 +68,7 @@ g++ file_management_system.cpp -o FileManagement
 
 ---
 
-## 📚 Operating System Concepts Covered
+## Operating System Concepts Covered
 
 * File Management
 * File Handling
@@ -79,13 +79,13 @@ g++ file_management_system.cpp -o FileManagement
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 The repository includes the complete project report describing the system design, implementation, and functionality.
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
